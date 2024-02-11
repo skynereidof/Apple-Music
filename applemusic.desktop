@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Apple Music
+Exec=/usr/bin/google-chrome-stable --app=https://beta.music.apple.com/pl/browse
+StartupNotify=true
+Terminal=false
+Icon=elisa
+Type=Application
+Categories=AudioVideo;Player;
+Name[pl_PL]=Apple Music
